@@ -9,3 +9,10 @@ body {
     background-color:green;
 }
 
+#logo {
+    height: 218px;
+    width: 358px;
+    background-color: white;
+    padding: 1em;
+}
+
