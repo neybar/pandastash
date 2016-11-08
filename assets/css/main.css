@@ -30,3 +30,8 @@ ul.bullets {
     list-style: disc outside none;
     margin-left: 1em;
 }
+#first-video{
+  width:40;
+  height:35;
+  padding:2em;
+}
