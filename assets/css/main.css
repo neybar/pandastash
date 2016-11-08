@@ -14,7 +14,7 @@ body {
 #logo {
     height: 218px;
     width: 358px;
-    background-color: white;
+    background-color:white;
     padding: 1em;
 	display: block;
     margin: auto;
@@ -30,4 +30,3 @@ ul.bullets {
     list-style: disc outside none;
     margin-left: 1em;
 }
-
