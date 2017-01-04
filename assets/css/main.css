@@ -6,7 +6,7 @@
  */
 
 body {
-    background: url("../img/bamboo_forest.jpg") no-repeat greenyellow ;
+    background: url("../img/bamboo_pattern.jpg") repeat #00d400;
     padding: 1em;
     color: white;
 }
